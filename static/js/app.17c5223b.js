@@ -4628,7 +4628,7 @@
                 loading: n("87d4"),
                 error: n("87d4")
             });
-        Ta(Ua), Ga(Ua), Object(qa["registerScrollSpy"])(Ua), Ua.mount("#app"), console.log("%c Aurora is developed by TriDiamond%c", "background:#24272A; color:#73ddd7", "", "https://github.com/auroral-ui/hexo-theme-aurora")
+        Ta(Ua), Ga(Ua), Object(qa["registerScrollSpy"])(Ua), Ua.mount("#app"), console.log("%c Aurora is developed by TriDiamond%c", "background:#24272A; color:#73ddd7", "")
     }, d056: function (e, t, n) {
         "use strict";
         n.r(t);
