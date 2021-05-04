@@ -3594,7 +3594,7 @@
                 id: "footer",
                 class: "relative w-full pt-1",
                 style: e.gradientBackground
-            }, [Object(a["j"])("span", vt, [Object(a["j"])("div", yt, [Object(a["j"])("div", kt, [Object(a["j"])("ul", wt, [Object(a["j"])("li", null, [Object(a["i"])(" Copyright © 2019 - " + Object(a["K"])(e.currentYear) + " ", 1), Object(a["j"])("b", xt, Object(a["K"])(e.themeConfig.site.author), 1), Mt]), Object(a["j"])("li", null, [Ft, Bt, Lt, Object(a["j"])("a", Zt, [Object(a["j"])("b", Ht, " Github v" , 1)]), _t]), "" !== e.themeConfig.site.beian.number && "" !== e.themeConfig.site.police_beian.number ? (Object(a["y"])(), Object(a["g"])("li", Tt, ["" !== e.themeConfig.site.police_beian.number ? (Object(a["y"])(), Object(a["g"])("span", Dt, [Object(a["j"])("img", {
+            }, [Object(a["j"])("span", vt, [Object(a["j"])("div", yt, [Object(a["j"])("div", kt, [Object(a["j"])("ul", wt, [Object(a["j"])("li", null, [Object(a["i"])(" Copyright © 2019 - " + Object(a["K"])(e.currentYear) + " ", 1), Object(a["j"])("b", xt, Object(a["K"])(e.themeConfig.site.author), 1), Mt]), Object(a["j"])("li", null, [Ft, Bt, Lt, Object(a["j"])("a", Zt, [Object(a["j"])("b", Ht, " Github " , 1)]), _t]), "" !== e.themeConfig.site.beian.number && "" !== e.themeConfig.site.police_beian.number ? (Object(a["y"])(), Object(a["g"])("li", Tt, ["" !== e.themeConfig.site.police_beian.number ? (Object(a["y"])(), Object(a["g"])("span", Dt, [Object(a["j"])("img", {
                 class: "inline-block",
                 src: n("54e7"),
                 alt: "",
